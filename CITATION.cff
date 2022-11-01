@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Loibl
+    given-names: David
+    orcid: https://orcid.org/0000-0002-7583-999X
+title: "Scripts to analyze data from the MountAiN glacier Transient snowline Retrieval Algorithm (MANTRA)"
+version: v0.1
+date-released: 2022-11-01
